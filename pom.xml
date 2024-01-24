@@ -94,7 +94,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.yourcompany.YourMainClass</mainClass>
+                            <mainClass>org/example/demo2/Demo2Application.java</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
