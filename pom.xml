@@ -79,8 +79,8 @@
         </dependency>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
-            <artifactId>junit-jupiter-api</artifactId>
-            <version>5.8.0</version>
+            <artifactId>junit-jupiter</artifactId>
+            <version>5.8.2</version> <!-- Используйте версию, соответствующую вашему проекту -->
             <scope>test</scope>
         </dependency>
 
